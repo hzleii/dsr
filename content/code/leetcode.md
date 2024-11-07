@@ -18,6 +18,7 @@ description: '本笔记收录了我的部分 LeetCode 解题过程，笔记不�
 
 **剑指 Offer 03 - 数组中重复的数字**
 
+1. 遍历 + set：<http://localhost:1313/code/2022/genshin-grasscutter/>
 1. 遍历 + set：<https://leetcode-cn.com/submissions/detail/137886172/>
 2. In-place 方法：<https://leetcode-cn.com/submissions/detail/137890828/>
 
