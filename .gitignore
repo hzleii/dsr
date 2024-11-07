@@ -5,6 +5,8 @@ resources/
 
 # hugo binary
 .hugo/
+.idea/
+.vscode/
 
 # logs
 logs
